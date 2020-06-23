@@ -8,4 +8,5 @@ The backend system is developed with the sole aim of Scalability and Perfomance 
   ### 1. Owoputi Kehinde  - https://github.com/sirkenedy 
   ### 2. Akintan David  - https://github.com/akindave
   ### 3. Ogunleye Sunday  - #
-  ### 3. Olasupo Funke  - #
+  ### 4. Olasupo Funke  - https://github.com/Roxie-32
+  ### 5. Ojo Rachel  - https://github.com/Rizzy22
